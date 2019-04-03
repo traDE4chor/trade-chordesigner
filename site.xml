@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="TraDE ChorDesigner Update Site" url="https://github.com/traDE4chor/trade-chordesigner/">
+      TraDE ChorDesigner Update Site
+   </description>
+   <feature url="features/org.trade.bpel.designer.feature_1.0.0.201904021456.jar" id="org.trade.bpel.designer.feature" version="1.0.0.201904021456">
+      <category name="org.trade.chordesigner"/>
+   </feature>
+   <feature url="features/org.trade.chordesigner.feature_1.0.0.201904021456.jar" id="org.trade.chordesigner.feature" version="1.0.0.201904021456">
+      <category name="org.trade.chordesigner"/>
+   </feature>
+   <category-def name="org.trade.chordesigner" label="TraDE Chor Designer"/>
+</site>
